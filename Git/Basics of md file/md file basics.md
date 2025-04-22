@@ -18,26 +18,11 @@ Use two spaces at the end of a line or a blank line to force a new line.
 ## ![image1](/images/md1.png)
 
 🔤 3. Text Formatting
+
 _italic_ or _italic_ → _italic_  
 **bold** or **bold** → **bold**  
 **_bold italic_** → **_bold italic_**  
 ~~strikethrough~~ → ~~strikethrough~~
-
-## 🔗 4. Links
-
-[Link Text](https://example.com)
-
-Example:
-[Visit GitHub](https://github.com)
-
-## 🖼️ 5. Images
-
-![Alt Text](path-or-url-to-image)
-
-Example:
-![Logo](images/logo.png)
-
-## ![chatgpt](/images/md2.png)
 
 ## 📋 6. Lists
 
@@ -73,15 +58,11 @@ Code block (fenced):
 
 ## 🔳 9. Blockquote
 
-> This is a quote.
+> Hard Work is the key to Success.
 
-##📐 10. Horizontal Line
+## 📐 10. Horizontal Line
 
 ---
-
-## 🧪 11. Comment (invisible in preview)
-
-<!-- This is a hidden comment -->
 
 ## 📁 12. Tables
 
