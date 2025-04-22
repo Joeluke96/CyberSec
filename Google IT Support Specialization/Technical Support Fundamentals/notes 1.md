@@ -143,3 +143,28 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 | 1       | 1       | 1      |
 
 Logic gates are fundamental in designing digital circuits, including processors, memory, and other computing systems.
+
+# What is Binary?
+
+**Binary** is a number system that uses only two digits, `0` and `1`. It is the foundation of all modern computing systems because digital devices operate using two states: on (1) and off (0).
+
+### Key Features of Binary:
+
+1. **Base-2 System**: Unlike the decimal system (base-10), binary is a base-2 system.
+2. **Representation of Data**: All types of data in computers, such as text, images, and audio, are represented in binary.
+3. **Logical Operations**: Binary is used in logic gates and circuits to perform computations.
+
+### Binary to Decimal Conversion:
+
+To convert a binary number to decimal, multiply each binary digit by 2 raised to the power of its position (starting from 0 on the right) and sum the results.
+
+**Example**: Binary `1011` to Decimal  
+`(1 × 2³) + (0 × 2²) + (1 × 2¹) + (1 × 2⁰) = 8 + 0 + 2 + 1 = 11`
+
+### Why is Binary Important?
+
+- **Efficiency**: Binary simplifies the design of electronic circuits.
+- **Reliability**: Digital systems using binary are less prone to errors caused by noise.
+- **Universality**: Binary is the universal language of computers.
+
+Understanding binary is essential for working with computer systems, programming, and digital electronics.
