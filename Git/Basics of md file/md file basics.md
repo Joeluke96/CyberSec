@@ -3,11 +3,11 @@
 ## 🔠 1. Headings
 
 Use # symbols:
-#H1 – Title
-##H2 – Section
-###H3 – Subsection
-####H4
-#####H5
+#H1 – Title  
+##H2 – Section  
+###H3 – Subsection  
+####H4  
+#####H5  
 ######H6
 
 ## 📄 2. Paragraphs & Line Breaks
