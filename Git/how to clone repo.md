@@ -1,9 +1,11 @@
-#How to clone a repo
+# How to clone a repo
 
-to clone a repository from Github to local directory:
+## to clone a repository from Github to local directory:
 
 1. open the directory where repo need to be cloned.
 2. open git bash
 3. use command "git clone https://github.com/yourusername/your-repo.git"
 
-![git bash](Git notes/images/clone.png)
+## screenshot
+
+![git bash](Git/images/clone.png)
