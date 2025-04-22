@@ -8,4 +8,4 @@
 
 ## screenshot
 
-![git bash](Git/images/clone.png)
+![git bash](/images/clone.png)
