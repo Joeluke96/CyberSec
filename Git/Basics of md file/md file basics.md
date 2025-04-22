@@ -24,6 +24,8 @@ _italic_ or _italic_ → _italic_
 **_bold italic_** → **_bold italic_**  
 ~~strikethrough~~ → ~~strikethrough~~
 
+## ![image1](/images/md2.png)
+
 ## 📋 6. Lists
 
 🔘 Unordered list
