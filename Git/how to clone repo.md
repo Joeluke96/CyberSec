@@ -9,3 +9,5 @@
 ## screenshot
 
 ![git bash](/images/clone.png)
+
+images to be shown in markdown file should be located in the root dir of repo.
