@@ -52,7 +52,7 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 
 - **Function**: Outputs `1` only if all inputs are `1`.
 
-- ![AND Gate Symbol](/C:/CyberSec/images/AND.png)
+## ![AND symbol](/images/AND.png)
 
 - **Truth Table**:
 
