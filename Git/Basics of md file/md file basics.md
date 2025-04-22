@@ -15,7 +15,7 @@ Use # symbols:
 Just write text on a new line for a new paragraph.
 Use two spaces at the end of a line or a blank line to force a new line.
 
-## ![chatgpt](images/md1.png)
+## ![image1](/images/md1.png)
 
 🔤 3. Text Formatting
 _italic_ or _italic_ → _italic_  
@@ -37,7 +37,7 @@ Example:
 Example:
 ![Logo](images/logo.png)
 
-## ![chatgpt](images/md2.png)
+## ![chatgpt](/images/md2.png)
 
 ## 📋 6. Lists
 
@@ -69,7 +69,7 @@ Code block (fenced):
 
   <pre> ```bash git init git add . git commit -m "First commit" ``` </pre>
 
-## ![chatgpt](images/md3.png)
+## ![chatgpt](/images/md3.png)
 
 ## 🔳 9. Blockquote
 
