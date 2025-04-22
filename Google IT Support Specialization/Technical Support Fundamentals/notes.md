@@ -51,9 +51,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 1. AND Gate
 
 - **Function**: Outputs `1` only if all inputs are `1`.
-
-## ![AND symbol](/images/AND.png)
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
@@ -68,8 +65,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 2. OR Gate
 
 - **Function**: Outputs `1` if at least one input is `1`.
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
@@ -84,8 +79,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 3. NOT Gate
 
 - **Function**: Inverts the input (0 becomes 1, and 1 becomes 0).
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input | Output |
@@ -98,8 +91,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 4. NAND Gate
 
 - **Function**: Outputs `0` only if all inputs are `1` (NOT of AND gate).
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
@@ -114,8 +105,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 5. NOR Gate
 
 - **Function**: Outputs `1` only if all inputs are `0` (NOT of OR gate).
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
@@ -130,8 +119,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 6. XOR Gate (Exclusive OR)
 
 - **Function**: Outputs `1` if the inputs are different.
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
@@ -146,8 +133,6 @@ Logic gates are the basic building blocks of digital circuits. They perform logi
 ## 7. XNOR Gate (Exclusive NOR)
 
 - **Function**: Outputs `1` if the inputs are the same (NOT of XOR gate).
-- **Symbol**:
-
 - **Truth Table**:
 
 | Input A | Input B | Output |
