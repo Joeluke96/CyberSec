@@ -32,11 +32,9 @@ An **Operating System (OS)** is system software that manages computer hardware, 
    **Kernal Space**
    - **_Process Manager_**
      -The process scheduler is part of the kernel that makes this multitasking possible. It switches the execution of each different process on the CPU faster than you can blink and it gives you the illusion that things are happening simultaneously
-   - **_Memory Manager_**
-   - Our kernel optimizes memory usage and makes sure our applications have enough memory to run.
+   - **_Memory Manager_**: Our kernel optimizes memory usage and makes sure our applications have enough memory to run.
    - **_File Manager_**
-   - **_I/O Manager_**
-     -mportant function that a kernel performs is input, output or IO management. This is how our kernel talks to external devices, like disks, keyboards, networks, connections, audio devices and more. IO management is anything that can give us input or that we can use for output of data.
+   - **_I/O Manager_**: Important function that a kernel performs is input, output or IO management. This is how our kernel talks to external devices, like disks, keyboards, networks, connections, audio devices and more. IO management is anything that can give us input or that we can use for output of data.
 2. **User Space**: The part of the OS where user applications and utilities run. It provides interfaces and tools for users to interact with the system. We interact with user space directly.
    The user space is everything outside the kernel. These are the things that we interact with directly, like programs such as text editors, music players, system settings, user interfaces, etcetera.
 
